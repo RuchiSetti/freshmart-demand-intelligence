@@ -1,0 +1,42 @@
+product_id,name,category,shelf_life_days,unit_price
+P101,Basmati Rice 5kg,Grains,282,408.44
+P102,Sona Masoori Rice 10kg,Grains,194,379.4
+P103,Wheat Flour 5kg,Grains,200,120.21
+P104,Whole Wheat Atta 10kg,Grains,254,256.66
+P105,Toor Dal 1kg,Pulses,296,320.5
+P106,Moong Dal 1kg,Pulses,331,342.9
+P107,Chana Dal 1kg,Pulses,232,486.46
+P108,Masoor Dal 500g,Pulses,337,145.55
+P109,Full Cream Milk 1L,Dairy,18,43.84
+P110,Toned Milk 1L,Dairy,18,99.51
+P111,Curd 400g,Dairy,19,76.15
+P112,Paneer 200g,Dairy,7,88.22
+P113,Butter 100g,Dairy,16,26.07
+P114,Sunflower Oil 1L,Cooking Oils,194,255.23
+P115,Mustard Oil 1L,Cooking Oils,354,328.27
+P116,Groundnut Oil 1L,Cooking Oils,287,281.41
+P117,Coconut Oil 500ml,Cooking Oils,243,260.04
+P118,Turmeric Powder 100g,Spices,140,139.26
+P119,Red Chilli Powder 100g,Spices,162,22.36
+P120,Coriander Powder 100g,Spices,93,189.02
+P121,Garam Masala 50g,Spices,103,163.6
+P122,Potato Chips 50g,Snacks,98,13.03
+P123,Namkeen Mix 200g,Snacks,91,140.0
+P124,Biscuits Pack,Snacks,149,33.19
+P125,Cookies Pack,Snacks,97,16.53
+P126,Tea Powder 250g,Beverages,167,84.3
+P127,Coffee Powder 200g,Beverages,139,135.88
+P128,Cold Drink 1.5L,Beverages,91,90.78
+P129,Juice 1L,Beverages,143,113.87
+P130,Soap 100g,Personal Care,143,15.95
+P131,Shampoo 200ml,Personal Care,107,157.28
+P132,Toothpaste 100g,Personal Care,123,85.08
+P133,Face Wash 50ml,Personal Care,103,148.18
+P134,Detergent 1kg,Household,104,26.81
+P135,Dishwash Liquid 500ml,Household,176,108.96
+P136,Floor Cleaner 1L,Household,151,71.81
+P137,Toilet Cleaner 500ml,Household,169,151.99
+P138,Frozen Peas 500g,Frozen,11,96.28
+P139,Frozen Mixed Veg 400g,Frozen,15,56.52
+P140,Ice Cream 1L,Frozen,18,55.88
+P141,Frozen Paneer 200g,Frozen,19,124.29

@@ -1,0 +1,11 @@
+store_id,name,city,state,region
+S01,FreshMart Delhi Central,Delhi,Delhi,North
+S02,FreshMart Mumbai West,Mumbai,Maharashtra,West
+S03,FreshMart Bangalore South,Bangalore,Karnataka,South
+S04,FreshMart Kolkata East,Kolkata,West Bengal,East
+S05,FreshMart Chennai Marina,Chennai,Tamil Nadu,South
+S06,FreshMart Pune Camp,Pune,Maharashtra,West
+S07,FreshMart Hyderabad Hitech,Hyderabad,Telangana,South
+S08,FreshMart Ahmedabad CG,Ahmedabad,Gujarat,West
+S09,FreshMart Jaipur Pink,Jaipur,Rajasthan,North
+S10,FreshMart Lucknow Hazrat,Lucknow,Uttar Pradesh,North
