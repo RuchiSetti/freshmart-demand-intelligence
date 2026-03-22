@@ -1,6 +1,6 @@
 # 🛒 FreshMart Demand Intelligence Platform
 
-A full-stack retail intelligence dashboard built with Next.js 16, designed to help grocery store chains manage inventory, forecast demand, and keep shelves stocked — all in one place.
+A full-stack retail intelligence dashboard built with Next.js 16, designed to help grocery store chains manage inventory, forecast demand, and keep shelves stocked — all in one place
 
 ---
 
